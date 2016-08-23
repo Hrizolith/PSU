@@ -1,2 +1,2 @@
 # PSU
-Penza State University`s Portal
+PSU Portal
